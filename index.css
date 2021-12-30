@@ -1,8 +1,10 @@
 /*HTML TAGS*/
 body {
-	color: green;
+	color: white;
 	background-color: black;
 	font-size: 16px;
+	background-image: url('lappy.jpeg');
+	background-repeat: no-repeat;
 }
 
 a {
@@ -45,4 +47,3 @@ img {
 #second-paragraph a {
 	color: green;
 }
-
